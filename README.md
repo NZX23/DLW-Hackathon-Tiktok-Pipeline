@@ -21,3 +21,8 @@ Submission for NTU's MLDA Deep Learning Week (DLW) Hackathon, for the Tiktok pro
 - Ng Zheng Xun (CSC Y4)
 - Kevin Hu (EEE Masters)
 - Lyu XingXiao (EEE Masters)
+
+
+## Additional Links:
+Submission on DevPost: https://devpost.com/software/tiktok-data-pipeline-team-xponential
+Youtube Video: https://youtu.be/yRsulorvWWE
